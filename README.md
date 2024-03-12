@@ -5,6 +5,7 @@ Describe how make things better
 * [Add automatically data in model](/docs/modelFilledCustomData.md)
 * [Helper array - examples](/docs/helperExamples.md)
 * [Model list to simple array](/docs/modelListToArray.md)
+* [Template with files install Auth Token Login](/packages/auth_login_template_2024.zip)
 
 ```php
 $model = new GradingScaleGroup();
