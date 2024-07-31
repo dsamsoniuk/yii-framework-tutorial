@@ -3,7 +3,7 @@
 namespace app\components\SharePoint;
 
 /**
- * Strona: passworditpl.sharepoint.com/sites/WebAPI
+ * Strona: xxxxxxx.sharepoint.com/sites/WebAPI
  */
 class SharePointWebAPI extends SharePointApi {
     public function __construct(){
