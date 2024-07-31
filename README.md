@@ -7,6 +7,8 @@ Describe how make things better
 * [Model list to simple array](/docs/modelListToArray.md)
 * [Template with files install Auth Token Login](/packages/auth_login_template_2024.zip)
 
+- componenty api SharePoint & Optima
+
 ```php
 $model = new GradingScaleGroup();
 $model->load(['id' => 3]);
